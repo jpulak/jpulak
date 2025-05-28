@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=017E00&width=435&lines=Hello+there+%F0%9F%91%8B+My+name+is+Jana+Pulak;Welcome+to+my+Github%2C+look+around+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1500&pause=1000&color=017E00&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B+My+name+is+Jana+Pulak;Welcome+to+my+Github%2C+look+around+!)](https://git.io/typing-svg)
 ---
 
 🎓 **Sophomore CS Major | Cybersecurity Track**

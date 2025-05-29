@@ -70,5 +70,5 @@ This system addresses a critical infrastructure issue in many third-world and de
 ## 🌐 Socials – Connect with Me!
 
 <a href="mailto:jpulak@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="www.linkedin.com/in/jana-pulak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jana-pulak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.behance.net/jpulak"><img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" /></a>

@@ -51,6 +51,85 @@ This system addresses a critical infrastructure issue in many third-world and de
 
 ---
 
+## 🌱 iKormi & Pulak Group — Building a Future Where No One Drinks Dirty Water
+
+### 🌍 iKormi — *Free Clean Water for the Forgotten*
+
+In many parts of rural and low-income Bangladesh, access to **safe drinking water** remains a daily struggle. Groundwater contamination, unreliable municipal supply, and the high cost of commercial filters create a health crisis hidden in plain sight.
+
+**iKormi** is a **non-profit initiative** founded with one simple mission:
+
+> 🫧 *To ensure that no child, family, or community is forced to drink unsafe water because they can't afford a filter.*
+
+We design and distribute **cost-effective, high-performance water filtration systems** completely **free of charge** to households living in poverty. These filters remove **arsenic, bacteria, and heavy metals**—some of the most common and dangerous contaminants in Bangladesh’s water supply.
+
+#### 🎯 iKormi’s Core Impact
+- 💧 **Free water filters** to underserved areas with high contamination rates.
+- 📊 **On-site training & awareness** for communities on safe water practices.
+- 🔬 **Field-tested filters**, developed and validated to meet rural needs.
+- 🌐 Designed for **scalability**, with local sourcing and community engagement.
+
+---
+
+### 💼 Pulak Group — *Sustainable Commerce Driving Social Change*
+
+While iKormi gives water filters away, someone still has to fund them. That’s where **Pulak Group** comes in — a **for-profit organization** that sells **premium, affordable water filters** to customers in Bangladesh who **can afford to pay**.
+
+But Pulak Group isn’t just about business — it’s about building a **closed-loop model** where **every product sold funds a product given**. A fixed portion of each sale directly supports iKormi’s mission to deliver free filters to the underserved.
+
+> 💡 **Buy a filter, give a filter.**  
+> Pulak Group turns everyday purchases into life-saving donations.
+
+#### 🧪 Pulak Group Highlights
+- 🧼 **High-efficiency, low-maintenance filters** for urban and semi-urban homes.
+- 🛒 A clean, responsive **landing page with e-commerce support**.
+- 🔄 Directly **integrated with iKormi**, enabling transparent social impact.
+- 📦 Local distribution with built-in **feedback loop** to improve product design.
+
+---
+
+### 🔗 Explore the Mission
+
+<p align="center">
+  <a href="https://ikormi.org" target="_blank">
+    <img src="https://img.shields.io/badge/iKormi%20Website-NonProfit%20for%20Clean%20Water-0d9c4c?style=for-the-badge&logo=dropbox&logoColor=white" alt="Visit iKormi">
+  </a>
+  &nbsp;
+  <a href="https://pulakgroup.com" target="_blank">
+    <img src="https://img.shields.io/badge/Pulak%20Group%20Website-ForProfit%20Funding%20NonProfit-0057b7?style=for-the-badge&logo=dropbox&logoColor=white" alt="Visit Pulak Group">
+  </a>
+</p>
+
+---
+
+### 💡 Technology & Implementation
+
+Both iKormi and Pulak Group websites were designed from the ground up to reflect their unique roles, while staying visually unified.
+
+| Feature | iKormi (Non-Profit) | Pulak Group (For-Profit) |
+|--------|----------------------|---------------------------|
+| 💻 Tech Stack | HTML/CSS/JS | HTML/CSS/JS |
+| 📱 Mobile-Friendly | ✅ | ✅ |
+| 🧭 User Flow | Donation + Education | Product Catalog + Purchase |
+| 🔌 Backend | Lightweight static | eCommerce + Integrated on-demand support |
+| 🌐 Hosting | Wordpress | Wordpress |
+| 📦 Delivery Chain | Manual coordination | Local logistics with scalability plan |
+
+---
+
+### 💬 Why It Matters
+
+> 🌱 *“When you buy a filter from Pulak Group, you’re not just purchasing a product — you’re becoming part of a mission.”*
+
+- 🫂 **iKormi uplifts the underserved.**
+- 🧭 **Pulak Group empowers the mission.**
+- 💧 Together, they create a **sustainable ecosystem** of clean water access — not charity, but **dignity** and **equity** through design.
+
+This dual initiative embodies a bold idea: **commerce and compassion are not opposites — they are partners**.
+
+---
+
+
 ## 📚 Learning
 
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />

@@ -70,22 +70,20 @@ We design and distribute **cost-effective, high-performance water filtration sys
 - 🌐 Designed for **scalability**, with local sourcing and community engagement.
 
 ---
+### 💼 Pulak Group — *Clean Water Solutions for Those Who Can Afford It*
 
-### 💼 Pulak Group — *Sustainable Commerce Driving Social Change*
+**Pulak Group** is a for-profit social enterprise that offers **affordable, high-quality water filtration systems and services** to individuals, households, and institutions in Bangladesh that are able to purchase them.
 
-While iKormi gives water filters away, someone still has to fund them. That’s where **Pulak Group** comes in — a **for-profit organization** that sells **premium, affordable water filters** to customers in Bangladesh who **can afford to pay**.
-
-But Pulak Group isn’t just about business — it’s about building a **closed-loop model** where **every product sold funds a product given**. A fixed portion of each sale directly supports iKormi’s mission to deliver free filters to the underserved.
+This is more than a business — it’s a **sustainable funding engine** for the non-profit iKormi initiative. Every sale directly helps provide **free water filters** to communities who cannot afford them.
 
 > 💡 **Buy a filter, give a filter.**  
-> Pulak Group turns everyday purchases into life-saving donations.
+> Pulak Group converts revenue into real-world impact through iKormi.
 
-#### 🧪 Pulak Group Highlights
-- 🧼 **High-efficiency, low-maintenance filters** for urban and semi-urban homes.
-- 🛒 A clean, responsive **landing page with e-commerce support**.
-- 🔄 Directly **integrated with iKormi**, enabling transparent social impact.
-- 📦 Local distribution with built-in **feedback loop** to improve product design.
-
+#### 🧃 Pulak Group Website Features
+- 🛍️ **Full catalog** of water filtration products and services.
+- 💳 **Purchase options** for individuals, schools, and businesses.
+- 📞 **Contact & consultation tools** for personalized water solutions.
+- 🔄 Sales profits help **fund iKormi’s free distribution programs**.
 ---
 
 ### 🔗 Explore the Mission
@@ -106,16 +104,19 @@ But Pulak Group isn’t just about business — it’s about building a **closed
 
 Both iKormi and Pulak Group websites were designed from the ground up to reflect their unique roles, while staying visually unified.
 
-| Feature | iKormi (Non-Profit) | Pulak Group (For-Profit) |
-|--------|----------------------|---------------------------|
-| 💻 Tech Stack | HTML/CSS/JS | HTML/CSS/JS |
-| 📱 Mobile-Friendly | ✅ | ✅ |
-| 🧭 User Flow | Donation + Education | Product Catalog + Purchase |
-| 🔌 Backend | Lightweight static | eCommerce + Integrated on-demand support |
-| 🌐 Hosting | Wordpress | Wordpress |
-| 📦 Delivery Chain | Manual coordination | Local logistics with scalability plan |
 
----
+| Feature              | iKormi (Non-Profit)                            | Pulak Group (For-Profit)                              |
+|----------------------|-----------------------------------------------|-------------------------------------------------------|
+| 💻 Tech Stack        | HTML / CSS / JS                                | HTML / CSS / JS                                       |
+| 📱 Mobile-Friendly   | ✅ Fully responsive                            | ✅ Fully responsive                                   |
+| 🧭 User Flow         | Donations, Impact Stories, Filter Access       | Product Catalog, Add-to-Cart, Purchase Flow          |
+| 🔌 Backend           | Static site with donation integration          | Full eCommerce with integrated customer support      |
+| 🌐 Hosting           | WordPress (Non-Profit tier)                    | WordPress + WooCommerce (Commerce optimized)         |
+| 📦 Delivery Chain    | Manual outreach & distribution coordination    | Local logistics with real-time service scalability   |
+| 💧 Mission Role      | Free filters to underserved communities        | Sustainable funding via filter sales to paying users |
+
+> **Pulak Group sells affordable filters to those who can pay — and uses the revenue to fund iKormi, which provides them free to those who can’t.**  
+> Together, they form a closed-loop impact model that brings clean water to **all income levels**.
 
 ### 💬 Why It Matters
 

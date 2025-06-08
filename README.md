@@ -51,11 +51,10 @@ This system addresses a critical infrastructure issue in many third-world and de
 
 ---
 
-## 🌱 iKormi & Pulak Group — Building a Future Where No One Drinks Dirty Water
-
+## 🌱 iKormi & Pulak Group — Addressing Arsenic Affected Areas 
 ### 🌍 iKormi — *Free Clean Water for the Forgotten*
 
-In many parts of rural and low-income Bangladesh, access to **safe drinking water** remains a daily struggle. Groundwater contamination, unreliable municipal supply, and the high cost of commercial filters create a health crisis hidden in plain sight.
+In many parts of rural and low-income Bangladesh, access to **safe drinking water** remains a daily struggle. Groundwater contamination with Arsenic, unreliable municipal supply, and the high cost of commercial filters create a health crisis hidden in plain sight.
 
 **iKormi** is a **non-profit initiative** founded with one simple mission:
 
